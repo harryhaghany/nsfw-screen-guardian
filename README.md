@@ -1,5 +1,6 @@
 # nsfw-screen-guardian
 > An AI-powered real-time NSFW content detection system that monitors the user’s screen using a mss and prevents exposure to inappropriate content by locking the device.
+> https://youtu.be/qCTQZGpU8Mo
 
 ## 🚀 Features
 
